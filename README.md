@@ -1,4 +1,5 @@
 Deep Learning Model Comparisons on Image Datasets
+
 Project Overview
 This project involves the implementation and comparison of three popular deep learning architectures: VGG, ResNet, and GoogLeNet. Each model is trained and evaluated on three different image datasets: MNIST, CIFAR-10, and CIFAR-100. The project aims to analyze the performance of these models in terms of accuracy, precision, recall, and F1 score.
 
